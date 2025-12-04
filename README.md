@@ -1,5 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I'm Lorenzo
 
+I’ve worked as a Software Engineer across Italy and Europe, touching everything from Flutter apps to .NET backends, SQL databases, and full-stack web projects.
+
+On GitHub you’ll find:
+-  projects I’m weirdly proud of,
+-  experiments that probably shouldn’t work but somehow do,
+-  and the occasional “I’ll clean this later” repo (I won’t).
+
+💬 Always happy to connect or collaborate on interesting projects!
 <!--
 **lorenzodeluca/lorenzodeluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
