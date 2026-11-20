@@ -1,24 +1,27 @@
 ### 👋 Hi there, I'm Lorenzo
 
-I’ve worked as a Software Engineer across Italy and Europe, touching everything from Flutter apps to .NET backends, SQL databases, and full-stack web projects.
+I'm a Computer Engineer & Software Developer bridging systems and cloud infrastructure with clean, product-grade applications. I’ve worked across Italy and Europe, touching everything from Flutter apps to .NET/Node.js backends, SQL/NoSQL databases, and full-stack web platforms.
 
-On GitHub you’ll find:
--  projects I’m weirdly proud of,
--  experiments that probably shouldn’t work but somehow do,
--  and the occasional “I’ll clean this later” repo (I won’t).
+---
 
-💬 Always happy to connect or collaborate on interesting projects!
-<!--
-**lorenzodeluca/lorenzodeluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I'm Currently Working On
 
-Here are some ideas to get you started:
+- 🌐 **[Miowiz](https://miowiz.com)** — An AI-powered website builder & instant hosting platform. It generates responsive, modern websites from natural language prompts, combining conversational AI editing, visual drag-and-drop tuning, asset management, and automated cloud hosting.
+- 🎓 **MSc in Computer Engineering @ [University of Bologna](https://www.unibo.it)** — Graduate studies focused on Artificial Intelligence & Machine Learning, Distributed Systems, Concurrency, and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 On GitHub you’ll find:
+- Projects I’m weirdly proud of,
+- Experiments that probably shouldn’t work but somehow do,
+- And the occasional “I’ll clean this later” repo (I won’t).
+
+---
+
+### 📬 Connect with me
+
+- 🌐 **Website & Terminal Portfolio**: [lorenzodeluca.it](https://lorenzodeluca.it)
+- 💼 **LinkedIn**: [linkedin.com/in/lorenzodeluca](https://www.linkedin.com/in/lorenzodeluca)
+- ✉️ **Email**: [info@lorenzodeluca.it](mailto:info@lorenzodeluca.it)
+
+💬 *Always happy to connect, exchange ideas, or collaborate on exciting projects!*
