@@ -7,7 +7,7 @@ I'm a Computer Engineer & Software Developer bridging systems and cloud infrastr
 ### 🚀 What I'm Currently Working On
 
 - 🌐 **[Miowiz](https://miowiz.com)** — An AI-powered website builder & instant hosting platform. It generates responsive, modern websites from natural language prompts, combining conversational AI editing, visual drag-and-drop tuning, asset management, and automated cloud hosting.
-- 🎙️ **[Miowiz Podcast (Onda Studio)](https://podcast.miowiz.com)** — An AI platform turning lecture notes, PDFs, and study materials into engaging multi-voice conversational podcasts with automated curriculum breakdown, TTS synthesis, and interactive playback.
+- 🎙️ **[Miowiz Podcast Studio](https://podcast.miowiz.com)** — An AI platform turning lecture notes, PDFs, and study materials into engaging multi-voice conversational podcasts with automated curriculum breakdown, TTS synthesis, and interactive playback.
 - 🎓 **MSc in Computer Engineering @ [University of Bologna](https://www.unibo.it)** — Graduate studies focused on Artificial Intelligence & Machine Learning, Distributed Systems, Concurrency, and Cybersecurity.
 
 ---
